@@ -7,11 +7,16 @@ Welcome to Custodia documentation!
 
    This project is under active development.
 
-Contents
---------
+Contents:
 
 .. toctree::
+   :maxdepth: 2
 
-   Home <self>
-   usage
-   api
+   readme.rst
+   quick.rst
+   config.rst
+   commands.rst
+   api.rst
+   examples/index.rst
+   plugins/index.rst
+   container.rst
